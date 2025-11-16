@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=0.0.1
+Name=USB Paranoiac
+GenericName=USB Tehlike Tarama Aracı
+Comment=Linux üzerinden USB aygıtlarını tarayarak Windows sistemlerini korur.
+Exec=/usr/share/USBParanoiac/USBParanoiac.py
+Icon=secure
+Terminal=false
+Categories=Utility;Security;System;
+StartupNotify=true

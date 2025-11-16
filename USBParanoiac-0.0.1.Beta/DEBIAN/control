@@ -1,0 +1,13 @@
+Package: usb-paranoiac
+Version: 0.0.1
+Architecture: all
+Maintainer: A. Serhat KILIÇOĞLU <www.github.com/shampuan>
+Section: utils
+Priority: optional
+Homepage: https://github.com/shampuan
+Depends: python3 (>= 3.6), python3-pip, xdg-utils, trash-cli
+Description: Linux tabanlı USB tehlike tarama aracı.
+ USB Paranoiac, Linux ortamında çalışarak USB depolama cihazlarını
+ Windows sistemlerine takılmadan önce potansiyel tehlikelere karşı
+ (autorun, gizli yürütülebilirler, zararlı betikler vb.) tarar ve
+ güvenli bir şekilde çöp kutusuna taşıma imkanı sunar.
