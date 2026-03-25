@@ -1,0 +1,12 @@
+Package: usb-paranoiac
+Version: 1.0.0
+Architecture: all
+Maintainer: A. Serhat KILIÇOĞLU <www.github.com/shampuan>
+Section: utils
+Priority: optional
+Homepage: https://github.com/shampuan
+Depends: python3, python3-pyqt6, python3-psutil, python3-dbus, python3-gi, python3-requests
+Description: Linux-based USB threat scanning tool.
+ USB Paranoiac runs in a Linux environment and scans USB storage devices for potential threats 
+ (autoruns, hidden executables, malicious scripts, etc.) before they are plugged into Windows systems,
+ and offers the possibility to safely move them to the Recycle Bin.
